@@ -2,6 +2,8 @@ _**CampusCab — College Cab Booking**_
 
 **CampusCab** - is a streamlined web application designed for college students to book, share, and track cab rides across campus efficiently.
 
+
+
 _**FEATURES**_
 
 **Flexible Booking Modes**:
@@ -18,6 +20,8 @@ _**FEATURES**_
 
 **Ride History**: Access a comprehensive log of active, scheduled, and completed rides.
 
+
+
 _**Technical Overview**_
 
 The application is built as a lightweight, single-page application (SPA) using:
@@ -28,6 +32,8 @@ The application is built as a lightweight, single-page application (SPA) using:
 
 **State Management**: Handles screen switching, booking modes, and driver selection through custom JavaScript functions.
 
+
+
 _**File Structure**_
 
 **index.html**: Contains the core structure, CSS styles, and application logic.
@@ -35,6 +41,8 @@ _**File Structure**_
 **CSS Variables**: Defines the color palette (accent, green, red, etc.) for consistent branding.
 
 **Components**: Includes navigation buttons, screen containers (book, rides, track), and dynamic driver cards.
+
+
 
 _**Getting Started**_
 
