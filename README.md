@@ -121,7 +121,7 @@
     </div>
     <div class="input-row">
       <span class="field-icon">📍</span>
-      <input class="field-input" placeholder="Pickup — College gate, Hostel A…" id="pickup" value="Main Gate, Campus" />
+      <input class="field-input" placeholder="Pickup — College gate, Hostel A…" id="pickup" value="Main Gate, VIT Bhopal University, Madhya Pradesh" />
     </div>
     <div class="input-row">
       <span class="field-icon">🏁</span>
